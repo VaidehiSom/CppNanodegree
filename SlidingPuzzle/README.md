@@ -5,8 +5,6 @@ This is my submission for capstone assignment in the [Udacity C++ Nanodegree Pro
 ## Dependencies for Running Locally
 * Visual Studio >= 2019
 	* All OSes: [click here for installation instructions](https://visualstudio.microsoft.com/downloads/)
-Or
-* Visual Studio Launcher Extension (for running vcxproj or sln extension)
 
 ## Basic Build Instructions
 If the solution file is not working in you visual studio code, please build the SlidingPuzzle.vcxproj file in your version of Visual Studio.

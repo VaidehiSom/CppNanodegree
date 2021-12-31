@@ -23,13 +23,13 @@ When the .sln file is opened, click on run or debug. The GUI of the game will be
 A README with instructions is included with the project. All the specifications have been met in above instructions.
 
 ## Project chosen
-# The README also indicates the file and class structure, along with the expected behavior or output of the program.
+### The README also indicates the file and class structure, along with the expected behavior or output of the program.
 
 Expected output-
 	A square GIU of number puzzle will pop up. It will be controlled by keyboard arrow keys. 
 
 ## The README includes information about each rubric point addressed.
-# The README indicates which rubric points are addressed. The README also indicates where in the code (i.e. files and line numbers) that the rubric points are addressed.
+### The README indicates which rubric points are addressed. The README also indicates where in the code (i.e. files and line numbers) that the rubric points are addressed.
 
 The project demonstrates an understanding of C++ functions and control structures. The project code is clearly organized into functions.
 Examples- ChildView.h, ChildView.cpp, SlidingPuzzle.h, SlidinPuzzle.cpp
